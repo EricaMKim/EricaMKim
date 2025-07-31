@@ -59,7 +59,7 @@ Beyond the classroom, I'm involved in a few other things:
 ### 💬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/erica-kim-55a64524b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Erica Kim's LinkedIn Profile" height="30" width="40" /></a>
-  <a href="https://github.com/EricaMKim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="Erica Kim's GitHub Profile" height="30" width="40" /></a>
-  <a href="mailto:ekim28@tufts.edu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="Email Erica Kim" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/erica-kim-55a64524b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Erica Kim's LinkedIn Profile"/></a>
+  <a href="https://github.com/EricaMKim" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Erica Kim's GitHub Profile"/></a>
+  <a href="mailto:ekim28@tufts.edu" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Erica Kim"/></a>
 </p>
