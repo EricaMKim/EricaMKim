@@ -1,6 +1,11 @@
 ## Hello! I'm Erica👋
 
-Thank you for looking at my page! I'm currently studying Electrical Engineering at Tufts University
+Thank you for looking at my page! 
+I am a Tufts University student currently pursuing a B.S. in Electrical Engineering. 
+
+
+
+## :mailbox: Socials - Lets Connect
 
 <!--
 **EricaMKim/EricaMKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
