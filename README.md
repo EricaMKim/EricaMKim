@@ -27,10 +27,10 @@ Here are some of the technologies I've been working with recently:
 <h4 align="center">Autonomous Communicating Bot</h4>
 <p>As part of a team project, I developed an autonomous bot capable of navigating a predefined track and communicating its status to other bots in real-time. The project focused on sensor integration, motor control, and inter-device communication.</p>
 <br>
-<p><b>Technologies Used:</b> C++, Python, Raspberry Pi, ROS</p>
+<p><b>Technologies Used:</b> C++, Arduino Uno, KiCad, OnShape </p>
 <br>
 <p align="center">
-<a href="*insert-repo-link-here*">View on GitHub</a>
+<a href="https://github.com/Pot8tr2/Junior-Design">View on GitHub</a>
 </p>
 </td>
 <td width="50%">
@@ -38,7 +38,7 @@ Here are some of the technologies I've been working with recently:
 <p>As an AI Teaching Fellow at the Tufts Center for Engineering Education and Outreach (CEEO), I co-developed and delivered a curriculum on AI/ML for a selective pre-college program. I designed hands-on lessons, created instructional tools, and mentored students through their final projects.</p>
 <p><b>Concepts Covered:</b> Python, Machine Learning Fundamentals, TensorFlow, Mentorship</p>
 <p align="center">
-<a href="*insert-link-to-program-or-portfolio-page-here*">More Info</a>
+<a href="*https://universitycollege.tufts.edu/pre-college/browse/engineering-artificial-intelligence*">More Info</a>
 </p>
 </td>
 </tr>
@@ -46,20 +46,20 @@ Here are some of the technologies I've been working with recently:
 
 ---
 
-###  extracurriculars & Interests
+###  Extracurriculars & Interests
 
 Beyond the classroom, I'm involved in a few other things:
 
-* **Member, Tufts Robotics Club:** Collaborating with other students to build and compete in the upcoming PacBot competition at MIT.
-* **Volunteer, Society of Women Engineers (SWE):** Participating in outreach events to encourage young women to pursue STEM fields.
-* **Hobbies:** When I'm not coding, I enjoy hiking in the Fells, 3D printing custom parts, and reading science fiction.
+* **Senior Representative, IEEE (Tufts Chapter):** I represent the senior class to help plan and organize professional development events, workshops, and networking opportunities for engineering students.
+* **Member, Tufts Robotics Club:** I am an active member of the Pac-Bot team, where we design, build, and program an autonomous robot to compete in a Pac-Man-themed environment.
+* **Hobbies:** When I'm not coding or building, I enjoy playing Dungeons & Dragons, practicing the guitar, and designing and 3D printing custom parts.
 
 ---
 
 ### 💬 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://github.com/your-github-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" /></a>
-<a href="mailto:your.email@tufts.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erica-kim-55a64524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://github.com/EricaMKim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" /></a>
+<a href="mailto:ekim28@tufts.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
 </p>
