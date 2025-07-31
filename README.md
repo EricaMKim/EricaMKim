@@ -12,8 +12,8 @@ I'm a student at **Tufts University** pursuing a B.S. in Electrical Engineering.
 
 Here are some of the technologies I've been working with recently:
 
-* **Languages:** `Python`, `C/C++`, `MATLAB`, `Verilog`
-* **Hardware & Embedded:** `Arduino`, `Raspberry Pi`, `ESP32`, `FPGAs`, `Circuit Design & Simulation (LTSpice)`
+* **Languages:** `Python`, `C/C++`, `MATLAB`, `VHDL`, `JavaScript` 
+* **Hardware & Embedded:** `Arduino`, `Raspberry Pi`, `STM32`, `FPGAs`, `Circuit Design & Simulation (LTSpice)`
 * **AI/ML:** `TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`
 * **Tools & Platforms:** `Cadence`, `GitHub`, `LinkedIn`
 
@@ -38,7 +38,7 @@ Here are some of the technologies I've been working with recently:
 <p>As an AI Teaching Fellow at the Tufts Center for Engineering Education and Outreach (CEEO), I co-developed and delivered a curriculum on AI/ML for a selective pre-college program. I designed hands-on lessons, created instructional tools, and mentored students through their final projects.</p>
 <p><b>Concepts Covered:</b> Python, Machine Learning Fundamentals, TensorFlow, Mentorship</p>
 <p align="center">
-<a href="*https://universitycollege.tufts.edu/pre-college/browse/engineering-artificial-intelligence*">More Info</a>
+<a href="https://universitycollege.tufts.edu/pre-college/browse/engineering-artificial-intelligence">More Info</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ Beyond the classroom, I'm involved in a few other things:
 ### 💬 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/erica-kim-55a64524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://github.com/EricaMKim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" /></a>
-<a href="mailto:ekim28@tufts.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/erica-kim-55a64524b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Erica Kim's LinkedIn Profile" height="30" width="40" /></a>
+  <a href="https://github.com/EricaMKim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="Erica Kim's GitHub Profile" height="30" width="40" /></a>
+  <a href="mailto:ekim28@tufts.edu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="Email Erica Kim" height="30" width="40" /></a>
 </p>
